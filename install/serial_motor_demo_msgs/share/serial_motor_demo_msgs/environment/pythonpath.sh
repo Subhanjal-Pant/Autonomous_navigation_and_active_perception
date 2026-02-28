@@ -1,1 +1,0 @@
-/home/subhanjal-pant/Desktop/ROS2/build/serial_motor_demo_msgs/ament_cmake_environment_hooks/pythonpath.sh

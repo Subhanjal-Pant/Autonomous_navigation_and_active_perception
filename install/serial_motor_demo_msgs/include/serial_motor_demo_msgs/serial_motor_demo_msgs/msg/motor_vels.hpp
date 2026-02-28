@@ -1,1 +1,0 @@
-/home/subhanjal-pant/Desktop/ROS2/build/serial_motor_demo_msgs/rosidl_generator_cpp/serial_motor_demo_msgs/msg/motor_vels.hpp

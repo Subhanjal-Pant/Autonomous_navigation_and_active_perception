@@ -1,1 +1,0 @@
-/home/subhanjal-pant/Desktop/ROS2/src/articubot_one/launch/rsp.launch.py
